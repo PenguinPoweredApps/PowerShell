@@ -1,0 +1,3 @@
+Get-WindowsUpdate
+
+Download-WindowsUpdate
