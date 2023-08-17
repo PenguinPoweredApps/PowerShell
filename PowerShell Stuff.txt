@@ -1,0 +1,10 @@
+PowerShell Stuff
+========== =====
+
+WebScraping with Power-Html
+
+Download files, speedtest.tele2.net
+
+Upload files to FTP with PSFtp
+
+Rest API, pokeapi.co Invoke-Restmethod
