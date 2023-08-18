@@ -1,0 +1,1 @@
+Start-Process PowerShell -verb runas -ArgumentList '-noexit', '-File', 'GetWindowsUpdates.ps1'
