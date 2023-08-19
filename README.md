@@ -26,13 +26,13 @@ These instructions will help you get a copy of the project up and running on you
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/PowerShell-AwesomeScripts.git
+   git clone https://github.com/yourusername/PowerShell.git
    ```
 
 2. Navigate to the repository folder:
 
    ```sh
-   cd PowerShell-AwesomeScripts
+   cd PowerShell
    ```
 
 3. (Any other installation steps specific to your repo/scripts)
@@ -60,7 +60,3 @@ For major changes, please open an issue first to discuss what you would like to 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Make sure to replace placeholders (like links and usernames) with appropriate values for your project.
