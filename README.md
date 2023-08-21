@@ -26,7 +26,7 @@ These instructions will help you get a copy of the project up and running on you
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/PowerShell.git
+   git clone https://github.com/PenguinPoweredApps/PowerShell.git
    ```
 
 2. Navigate to the repository folder:
