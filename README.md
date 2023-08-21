@@ -1,6 +1,6 @@
 # PowerShell
 
-**PowerShell AwesomeScripts** is a collection of handy and efficient PowerShell scripts designed to make your day-to-day tasks easier.
+**PowerShell** is a collection of handy and efficient PowerShell scripts designed to make your day-to-day tasks easier.
 
 ![PowerShell Logo](link-to-logo-if-you-have-one.png)
 
