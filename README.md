@@ -58,7 +58,7 @@ Please refer to individual script documentation for specific details.
 
 For major changes, please open an issue first to discuss what you would like to change.
 
-**Disclaimer for Library of Scripts:**
+## Disclaimer for Library of Scripts:
 
 The following disclaimer outlines the terms of use and limitations associated with the scripts provided in this library. By accessing, downloading, or utilizing any scripts from this library, you agree to comply with the terms and conditions mentioned herein:
 
