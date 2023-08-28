@@ -1,6 +1,6 @@
 # PowerShell
 
-**PowerShell** is a collection of handy and efficient PowerShell scripts designed to make your day-to-day tasks easier.
+**PowerShell** is a collection of handy and efficient PowerShell scripts designed to make your day-to-day tasks easier on both Windows and Linux systems.
 #### Please read through all scripts thoroughly before running to ensure they are fit for your purpose.
 
 ![PowerShell Logo](powershell-icon.png)
