@@ -1,0 +1,3 @@
+FirstName,LastName,Username,Password,OU
+John,Doe,jdoe,P@ssw0rd,OU=Staff,DC=example,DC=com
+Jane,Doe,jadoe,P@ssw0rd,OU=Staff,DC=example,DC=com
