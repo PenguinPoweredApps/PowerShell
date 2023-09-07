@@ -1,0 +1,1 @@
+powershell.exe -File C:\Script.ps1 -ExecutionPolicy Bypass
