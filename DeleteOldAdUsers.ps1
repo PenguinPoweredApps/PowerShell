@@ -8,10 +8,10 @@ $90DaysAgo = (Get-Date).AddDays(-90)
 $systemAccounts = @("Administrator", "krbtgt", "Guest") # Add more system account names if needed
 
 # Get all AD user accounts that haven't been used in the last 90 days
-Get-ADUser -Filter { LastLogonTimeStamp -lt $90DaysAgo -and enabled -eq $true } -Properties LastLogonTimeStamp | Where-Object {
+Get-ADUser -Filter { LastLogonDate -lt $90DaysAgo -and enabled -eq $true } -Properties LastLogonDate | Where-Object {
     $systemAccounts -notcontains $_.SamAccountName
 } | ForEach-Object {
-    Write-Output "User: $($_.SamAccountName) last logged on $($_.LastLogonTimeStamp)"
+    Write-Output "User: $($_.SamAccountName) last logged on $($_.LastLogonDate)"
     
     # Ask the user for confirmation
     $response = Read-Host "Do you want to delete this user? (y/n)"
