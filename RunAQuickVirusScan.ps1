@@ -1,0 +1,1 @@
+start-mpscan -scantype quickscan
